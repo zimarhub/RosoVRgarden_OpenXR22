@@ -5,3 +5,5 @@ This OpenXR template is ready to use on the Oculus Quest and the HTC Vive Pro. I
 Requires: Unity 2022.3.9 or later with Interactive Toolkit 2.5.
 
 Thanks to Another Creative Technologist, C-Through, ValemVR for their excellent tutorials.
+
+Nicolas' version
